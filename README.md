@@ -16,6 +16,3 @@ CG Rendering and Practice Program Template
 ## Edit another code
 
 Ordinary, it runs `src/app.ts` only. So you can save your code by copying and renaming (e.g. `app-1.ts`).
-
----
-Tokyo Denki University, Department of Information Systems and Multimedia Design
