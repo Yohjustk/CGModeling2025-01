@@ -1,0 +1,24 @@
+# Blender 4.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Material.012
+Ka 0.986364 0.986364 0.986364
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd ./Textures/Player_4k_Color.jpg
+map_Ns ./Textures/Player_4k_Roughness.jpg
+map_refl ./Textures/Player_4k_Metal.jpg
+map_Bump -bm 1.000000 ./Textures/Player_4k_Normal.jpg
+
+newmtl Material.015
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.610662 0.610662 0.610662
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
